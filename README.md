@@ -8,9 +8,7 @@ Ideal for flexible and responsive websites.
 
 **[Visit PQINA.nl for other useful Web Components](https://pqina.nl/).**
 
-
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/rikschennink/fitty/blob/gh-pages/LICENSE)
-[![npm version](https://badge.fury.io/js/fitty.svg)](https://badge.fury.io/js/fitty)
 
 ## Features
 
@@ -55,6 +53,7 @@ Option             | Default       | Description
 -------------------|---------------|------------------------------------------------
 `minSize`          | `16`          | The minimum font size in pixels
 `maxSize`          | `512`         | The maximum font size in pixels
+`fitHeight`        | `false`       | Fit text to the height of the container (text will still fit to the width)
 `multiLine`        | `true`        | Wrap lines when using minimum font size.
 `observeMutations` | `MutationObserverInit` | Rescale when element contents is altered. Is set to false when `MutationObserver` is not supported. Pass a custom MutationObserverInit config to optimize monitoring based on your project. By default contains the MutationObserverInit configuration below or `false` based on browser support. 
 
