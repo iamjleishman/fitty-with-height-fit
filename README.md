@@ -8,9 +8,7 @@ Ideal for flexible and responsive websites.
 
 **[Visit PQINA.nl for other useful Web Components](https://pqina.nl/).**
 
-
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/rikschennink/fitty/blob/gh-pages/LICENSE)
-[![npm version](https://badge.fury.io/js/fitty.svg)](https://badge.fury.io/js/fitty)
 
 ## Features
 
